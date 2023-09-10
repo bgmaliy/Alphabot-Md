@@ -54,18 +54,18 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.botname = "𝙱𝙶𝙼𝙰𝙻𝙸𝚈-𝙱𝙾𝚃" //namabot kalian
+global.ownername = "ᴹᴿ᭄ 𝚂𝙷𝙸̇𝚁𝚅𝙰𝙽 ×፝֟͜×" //nama kalian
+global.myweb = "https://darkvet.com " //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/@Z" //bebas asal jan hapus
+global.myweb2 = "https://s.id/zec" //bebas
+global.email = "aliyefhsos1@gmail.com" //bebas
+global.region = "Azerbaijan AZ" //bebas
 global.timezone = 'Asia/Makassar' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
 global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62887435047326"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['994555647159'] //premium user
+global.owner = ["994555647159", "994503121548"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = owner[0] + "@s.whatsapp.net"
 global.ownernomerr = "+"+ownernomer //tidak perlu di edit
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
@@ -103,12 +103,12 @@ global.buttonDefault = [{
    }
 }, {
    quickReplyButton: {
-      displayText: 'Owner 👤',
+      displayText: '𝚂𝚊𝚑𝚒𝚙 👤',
       id: '.owner'
    }
 }, {
    quickReplyButton: {
-      displayText: '⚡ Command ⚡',
+      displayText: '⚡ 𝙺𝚘𝚖𝚞𝚝 ⚡',
       id: '.command'
    }
 }]
@@ -129,7 +129,7 @@ global.buttonDefault2 = [{
    }
 }, {
    quickReplyButton: {
-      displayText: 'Owner 👤',
+      displayText: '𝚜𝚊𝚑𝚒𝚙 👤',
       id: '.owner'
    }
 }, {
